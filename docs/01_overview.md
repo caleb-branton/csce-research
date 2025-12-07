@@ -16,7 +16,7 @@ This repository contains the formal structure, research notes, threat modeling, 
 ## Repository Structure
 
 ### **1. Abstract & Overview**  
-`01_readme.md`  
+`01_overview.md`  
 High-level explanation of CSCE, its origin, conceptual framing, and background.
 
 ### **2. Threat Model**  
