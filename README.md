@@ -84,7 +84,7 @@ This shift has implications for personal security, enterprise risk, insider-thre
 
 ## **Repository Structure**
 
-- **`01_README.md` — Overview**  
+- **`01_overview.md` — Overview**  
     Conceptual introduction and high-level framing of CSCE.
     
 - **`02_threat-model.md` — Threat Model**  
